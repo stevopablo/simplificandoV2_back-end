@@ -1,0 +1,29 @@
+[33mcommit 33998e38ac831932233e5b1fd16143c9a96698e0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Carlos Henrique <carlospaixao05@gmail.com>
+Date:   Fri Oct 24 21:02:19 2025 -0300
+
+    feat: adicionando nova estrutura de backend com funcionalidades atualizadas
+
+[33mcommit 6812ff094ae901756ce4435076380cf92ca3f9be[m
+Author: Carlos Henrique <carlospaixao05@gmail.com>
+Date:   Fri Oct 24 21:01:04 2025 -0300
+
+    chore: removendo arquivos de configuração e servidor não utilizados
+
+[33mcommit 39c67cbd51bb89b2552213e935b28af1aa8a2d39[m
+Author: pablo <stevaopabllo@gmail.com>
+Date:   Thu Oct 23 11:43:52 2025 -0300
+
+    chore <env example>: adicionado exemplo do dotenv
+
+[33mcommit 45939e6941046a4b741bcbc2e4b4f5e8f07b4c08[m
+Author: pablo <stevaopabllo@gmail.com>
+Date:   Thu Oct 23 11:34:55 2025 -0300
+
+    docs <read me>: adicionando instruções do setup do projeto
+
+[33mcommit bd2c4534bb9c4816f86aac18747350a4baf1aaeb[m
+Author: pablo <stevaopabllo@gmail.com>
+Date:   Thu Oct 23 11:27:10 2025 -0300
+
+    first commit
